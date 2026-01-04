@@ -4,6 +4,8 @@
 
 ## 📌 Project Overview
 This project focuses on **Exploratory Data Analysis (EDA)** of **Zomato restaurant data** using **Python**. The objective is to analyze restaurant distribution, customer preferences, online ordering behavior, ratings, pricing, and cuisine trends to understand the dynamics of the food delivery and restaurant ecosystem.
+<img width="1757" height="837" alt="image" src="https://github.com/user-attachments/assets/84b433e1-2d0d-4215-b528-69af56c53bd4" />
+
 
 
 ---
