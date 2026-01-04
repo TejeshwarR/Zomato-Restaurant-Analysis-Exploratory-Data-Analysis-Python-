@@ -20,7 +20,7 @@ The goals of this project are to:
 
 ## 📂 Project Files
 - Zomato_analysis.ipynb – Python notebook containing exploratory data analysis
-- Dataset – Zomato restaurant data used for analysis
+- Dataset (too large to upload)– Zomato restaurant data used for analysis
 
 ---
 
